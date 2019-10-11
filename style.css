@@ -29,6 +29,14 @@ h2 a:hover{
     box-shadow: 5px 10px red;  
 }
 
+.bulletpoint{
+    color: orange;
+}
+
+ul li a {
+
+    color: pink;
+}
 
 
 
