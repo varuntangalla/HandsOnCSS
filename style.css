@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    
+}
+h1 a{
+
+    color: red;
+}
+
+h2 a:hover{
+    color: orange;
+}
