@@ -17,12 +17,12 @@ h2 a:hover{
 
 .chessboard:hover{
 
-    box-shadow: 10px 10px 10px 10px orange;
+    box-shadow: 10px 10px 10px 10px green;
 
 }
 
 .mate-in-one{
-       box-shadow: 5px 10px orange ;
+       box-shadow: 5px 10px orange ; 
 }
 
 .mate-in-two{
